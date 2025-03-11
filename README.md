@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hello, <br><br>I am Matt a Junior Developer & Student Software Engineer.<br><br>Working towards my BEng (Hons).<br><br>I am currently working on:<br>C#:<br>- C# File Management System.<br>- C# DnD CMD-based game. <br>- C# Image difference detector in WinForm.<br><br>Planned Projects:<br>- Visual Detection (Python)<br>- Mobile Applications (Dart)<br>
+# 🪪 About Me:
+Hello, <br><br>I am Matt a Junior Developer & Student Software Engineer.<br><br>Working towards my BEng (Hons).<br><br>I am currently working on:<br>Dart:<br>- Unnamed Mobile Application <br> C#:<br>- C# File Management System.<br>- C# DnD CMD-based game. <br>- C# Image difference detector in WinForm.<br><br>Planned Projects:<br>- Visual Detection (Python)
 
 
 ## 🌐 Socials:
