@@ -1,5 +1,5 @@
 # 🪪 About Me:
-Hello, <br><br>I am Matt a Final Year BEng (Hons) Software Engineering Student.<br><br>Working towards my BEng (Hons).<br><br>I am currently working on:<br> C#:<br>- C# DnD CMD-based game.<br> Website Development w/ Python: <br>- Personal Project using https://api.nasa.gov/  <br><br>Planned Projects:<br>- Visual Detection (Python)
+Hello, <br><br>I am Matt a Final Year BEng (Hons) Software Engineering Student.<br><br>I am also a Student Mentor in the Commputing Department at my University supporting students within my field.<br><br>I am currently working on:<br> C#:<br>- C# DnD CMD-based game.<br> Website Development w/ Python: <br>- Personal Project using https://api.nasa.gov/  <br><br>Planned Projects:<br>- Visual Detection (Python)
 
 
 ## 🌐 Socials:
