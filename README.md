@@ -1,5 +1,19 @@
 # 🪪 About Me:
-Hello, <br><br>I am Matt a Final Year BEng (Hons) Software Engineering Student.<br><br>I am also a Student Mentor in the Commputing Department at my University supporting students within my field.<br><br>Current Projects:<br> C#:<br>- C# DnD CMD-based game.<br><br> Website Development w/ Python: <br>- Personal Project using https://api.nasa.gov/  <br><br>Planned Projects:<br>- Visual Detection (Python)
+Hello, <br><br>I am Matt, a Final Year BEng (Hons) Software Engineering Student.<br><br>I am also a Student Mentor in the Computing Department at my University, supporting students within my field.
+<br><br>
+## Current Projects:
+<br><br>
+- Final Year Project ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br><br>
+- DnD CMD-Based Game ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+<br> <br>
+- DnD Website Game ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+<br><br>  
+- Personal Project using https://api.nasa.gov/ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br><br>
+## Planned Projects:
+<br><br>
+- Visual Detection ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 ## 🌐 Socials:
@@ -12,6 +26,9 @@ Hello, <br><br>I am Matt a Final Year BEng (Hons) Software Engineering Student.<
 
 ## Database(s):
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+## Cloud & VM:
+![Oracle](https://img.shields.io/badge/.oracle-f65e10?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/.Azure-007fff?style=for-the-badge&logo=Azure&logoColor=white)
 
 ## Design:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
