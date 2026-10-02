@@ -1,5 +1,5 @@
 # 🪪 About Me:
-Hello, <br><br>I am Matt, a Graduate Software Engineering Student & now a Trainee Data Engineer.<br><br>I am also a Student Mentor in the Computing Department at my University, supporting students within my field.
+Hello, <br><br>I am Matt, a Graduate Software Engineering Student & now a Trainee Data Engineer.
 <br><br>
 ## Current Projects:
 <br>
