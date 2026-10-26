@@ -1,0 +1,97 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container{
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          height: 300px;
+        }
+
+        .header-container{
+          position: relative;
+          flex: 1;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .title{
+          font-family: 'Inter', 'Roboto', system-ui, sans-serif;
+          font-size: 48px;
+          color: white;
+          opacity: 0;
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          margin: 0;
+          white-space: nowrap;
+        }
+
+        .subtitle{
+          font-family: 'Inter', 'Roboto', system-ui, sans-serif;
+          font-size: 16px;
+          color: white;
+          text-align: center;
+          margin-bottom: 50px;
+        }
+
+        .lang0{ animation: show 14s infinite; animation-delay: 0s; }
+        .lang1{ animation: show 14s infinite; animation-delay: 2s; }
+        .lang2{ animation: show 14s infinite; animation-delay: 4s; }
+        .lang3{ animation: show 14s infinite; animation-delay: 6s; }
+        .lang4{ animation: show 14s infinite; animation-delay: 8s; }
+        .lang5{ animation: show 14s infinite; animation-delay: 10s; }
+        .lang6{ animation: show 14s infinite; animation-delay: 12s; }
+
+        @keyframes show {
+          0% { opacity: 0; }
+          5% { opacity: 1; }
+          15% { opacity: 1; }
+          20% { opacity: 0; }
+          100% { opacity: 0; }
+        }
+
+        /* Background Gradient Animation */
+        .bgGradient {
+          background: linear-gradient(61deg, #000000, #00c118);
+          background-size: 400% 400%;
+
+          -webkit-animation: bgGradient 8s ease infinite;
+          -moz-animation: bgGradient 8s ease infinite;
+          animation: bgGradient 8s ease infinite;
+          }
+
+        @-webkit-keyframes bgGradient {
+          0%{background-position:0% 74%}
+          50%{background-position:100% 27%}
+          100%{background-position:0% 74%}
+        }
+        @-moz-keyframes bgGradient {
+          0%{background-position:0% 74%}
+          50%{background-position:100% 27%}
+          100%{background-position:0% 74%}
+        }
+        @keyframes bgGradient {
+          0%{background-position:0% 74%}
+          50%{background-position:100% 27%}
+          100%{background-position:0% 74%}
+        }
+      </style>
+      <div class="container bgGradient">
+        <div class="header-container">
+          <text class="title pos lang0">Hi! I'm Matt</text>
+          <text class="title pos lang1">Hallo! ich bin Matt</text>
+          <text class="title pos lang2">Hej! jag är Matt</text>
+          <text class="title pos lang3">Ciao! lo sono Matt</text>
+          <text class="title pos lang4">Привет! я Мэтт</text>
+          <text class="title pos lang5">مرحبًا، أنا مات</text>
+          <text class="title pos lang6">Hi! Ek is Matt</text>
+        </div>
+        <div class="subtitle"> BEng Software Engineer | Data Consultant | Language Learner</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
